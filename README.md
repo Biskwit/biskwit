@@ -1,1 +1,1 @@
-[![](https://skillicons.dev/icons?i=ts,solidity,rust,figma,nuxt,vue,net,ps,ai,postgres,electron,vite)]()
+[![](https://skillicons.dev/icons?i=ts,nodejs,solidity,rust,figma,nuxt,vue,ps,ai,postgres,electron,vite,tailwind,bootstrap,net,cs)]()
